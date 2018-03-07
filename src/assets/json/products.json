@@ -1,0 +1,64 @@
+[
+    {
+        "id": 1, "nama": "Justice Gundam", 
+        "kategori": "Gundam", 
+        "harga": 800000, 
+        "gambar": "images/gundam-2-1.jpg", 
+        "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ut massa at neque blandit luctus sit amet sit amet magna. Nullam gravida eget libero ac hendrerit. Vestibulum lobortis quam eu ornare malesuada. Nunc a libero lectus. Donec eget sodales tortor. Duis blandit est sit amet tincidunt volutpat. Nulla euismod ullamcorper ex a consequat. Sed nisl elit, sagittis sit amet dolor et, interdum vestibulum mauris. Phasellus feugiat, magna sed mattis egestas, sem libero pellentesque arcu, a condimentum ex sapien in orci. Ut lacinia eu justo tempor tincidunt. Phasellus sodales vehicula turpis, quis convallis ipsum varius id. Vestibulum nec nibh at sem tempor egestas. Ut quis quam eget nisi sollicitudin mattis vel scelerisque urna."
+    },
+    {
+        "id": 2, 
+        "nama": "Wing Gundam", 
+        "kategori": "Gundam", "harga": 900000, 
+        "gambar": "images/gundam-3-1.jpg",
+        "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ut massa at neque blandit luctus sit amet sit amet magna. Nullam gravida eget libero ac hendrerit. Vestibulum lobortis quam eu ornare malesuada. Nunc a libero lectus. Donec eget sodales tortor. Duis blandit est sit amet tincidunt volutpat. Nulla euismod ullamcorper ex a consequat. Sed nisl elit, sagittis sit amet dolor et, interdum vestibulum mauris. Phasellus feugiat, magna sed mattis egestas, sem libero pellentesque arcu, a condimentum ex sapien in orci. Ut lacinia eu justo tempor tincidunt. Phasellus sodales vehicula turpis, quis convallis ipsum varius id. Vestibulum nec nibh at sem tempor egestas. Ut quis quam eget nisi sollicitudin mattis vel scelerisque urna."
+    },
+    {
+        "id": 3, 
+        "nama": "Hot Wheels Track", 
+        "kategori": "Hot Wheels", 
+        "harga": 300000, 
+        "gambar": "images/hotwheels-set-1-1.jpg",
+        "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ut massa at neque blandit luctus sit amet sit amet magna. Nullam gravida eget libero ac hendrerit. Vestibulum lobortis quam eu ornare malesuada. Nunc a libero lectus. Donec eget sodales tortor. Duis blandit est sit amet tincidunt volutpat. Nulla euismod ullamcorper ex a consequat. Sed nisl elit, sagittis sit amet dolor et, interdum vestibulum mauris. Phasellus feugiat, magna sed mattis egestas, sem libero pellentesque arcu, a condimentum ex sapien in orci. Ut lacinia eu justo tempor tincidunt. Phasellus sodales vehicula turpis, quis convallis ipsum varius id. Vestibulum nec nibh at sem tempor egestas. Ut quis quam eget nisi sollicitudin mattis vel scelerisque urna."
+    },
+    {
+        "id": 4, 
+        "nama": "Hot Wheels Nitrobot", 
+        "kategori": "Hot Wheels", 
+        "harga": 350000, 
+        "gambar": "images/hotwheels-set-5-1.jpg",
+        "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ut massa at neque blandit luctus sit amet sit amet magna. Nullam gravida eget libero ac hendrerit. Vestibulum lobortis quam eu ornare malesuada. Nunc a libero lectus. Donec eget sodales tortor. Duis blandit est sit amet tincidunt volutpat. Nulla euismod ullamcorper ex a consequat. Sed nisl elit, sagittis sit amet dolor et, interdum vestibulum mauris. Phasellus feugiat, magna sed mattis egestas, sem libero pellentesque arcu, a condimentum ex sapien in orci. Ut lacinia eu justo tempor tincidunt. Phasellus sodales vehicula turpis, quis convallis ipsum varius id. Vestibulum nec nibh at sem tempor egestas. Ut quis quam eget nisi sollicitudin mattis vel scelerisque urna."
+    },
+    {
+        "id": 5, 
+        "nama": "Lego Ninjago Set", 
+        "kategori": "Lego", 
+        "harga": 1200000, 
+        "gambar": "images/lego-7-1.jpg",
+        "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ut massa at neque blandit luctus sit amet sit amet magna. Nullam gravida eget libero ac hendrerit. Vestibulum lobortis quam eu ornare malesuada. Nunc a libero lectus. Donec eget sodales tortor. Duis blandit est sit amet tincidunt volutpat. Nulla euismod ullamcorper ex a consequat. Sed nisl elit, sagittis sit amet dolor et, interdum vestibulum mauris. Phasellus feugiat, magna sed mattis egestas, sem libero pellentesque arcu, a condimentum ex sapien in orci. Ut lacinia eu justo tempor tincidunt. Phasellus sodales vehicula turpis, quis convallis ipsum varius id. Vestibulum nec nibh at sem tempor egestas. Ut quis quam eget nisi sollicitudin mattis vel scelerisque urna."
+    },
+    {
+        "id": 6, 
+        "nama": "Lego Star Wars Set", 
+        "kategori": "Lego", 
+        "harga": 1300000, 
+        "gambar": "images/lego-8-1.jpg",
+        "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ut massa at neque blandit luctus sit amet sit amet magna. Nullam gravida eget libero ac hendrerit. Vestibulum lobortis quam eu ornare malesuada. Nunc a libero lectus. Donec eget sodales tortor. Duis blandit est sit amet tincidunt volutpat. Nulla euismod ullamcorper ex a consequat. Sed nisl elit, sagittis sit amet dolor et, interdum vestibulum mauris. Phasellus feugiat, magna sed mattis egestas, sem libero pellentesque arcu, a condimentum ex sapien in orci. Ut lacinia eu justo tempor tincidunt. Phasellus sodales vehicula turpis, quis convallis ipsum varius id. Vestibulum nec nibh at sem tempor egestas. Ut quis quam eget nisi sollicitudin mattis vel scelerisque urna."
+    },
+    {
+        "id": 7, 
+        "nama": "Tamiya Astute", 
+        "kategori": "Tamiya", 
+        "harga": 300000, 
+        "gambar": "images/tamiya-1-1.jpg",
+        "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ut massa at neque blandit luctus sit amet sit amet magna. Nullam gravida eget libero ac hendrerit. Vestibulum lobortis quam eu ornare malesuada. Nunc a libero lectus. Donec eget sodales tortor. Duis blandit est sit amet tincidunt volutpat. Nulla euismod ullamcorper ex a consequat. Sed nisl elit, sagittis sit amet dolor et, interdum vestibulum mauris. Phasellus feugiat, magna sed mattis egestas, sem libero pellentesque arcu, a condimentum ex sapien in orci. Ut lacinia eu justo tempor tincidunt. Phasellus sodales vehicula turpis, quis convallis ipsum varius id. Vestibulum nec nibh at sem tempor egestas. Ut quis quam eget nisi sollicitudin mattis vel scelerisque urna."
+    },
+    {
+        "id": 8, 
+        "nama": "Tamiya Avante", 
+        "kategori": "Tamiya", 
+        "harga": 250000, 
+        "gambar": "images/tamiya-2-1.jpg",
+        "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ut massa at neque blandit luctus sit amet sit amet magna. Nullam gravida eget libero ac hendrerit. Vestibulum lobortis quam eu ornare malesuada. Nunc a libero lectus. Donec eget sodales tortor. Duis blandit est sit amet tincidunt volutpat. Nulla euismod ullamcorper ex a consequat. Sed nisl elit, sagittis sit amet dolor et, interdum vestibulum mauris. Phasellus feugiat, magna sed mattis egestas, sem libero pellentesque arcu, a condimentum ex sapien in orci. Ut lacinia eu justo tempor tincidunt. Phasellus sodales vehicula turpis, quis convallis ipsum varius id. Vestibulum nec nibh at sem tempor egestas. Ut quis quam eget nisi sollicitudin mattis vel scelerisque urna."
+    }
+]
